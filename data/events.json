@@ -1,0 +1,1 @@
+[null,{"name":"Role","temp":"role","event-type":"10","actions":[{"channel":"4","varName":"","message":"**Została utworzona nowa rola ${tempVars(\"role\")}! **","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}]
